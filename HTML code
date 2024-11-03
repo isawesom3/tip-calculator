@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+<select id="service">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<option value="15">Please rate your service.</option>
+<option value="20">Amazing!</option>
+<option value="17">Really good</option>
+<option value="15">Nothing special</option>
+<option value="12">Could have been better</option>
+<option value="10">It was pretty bad</option>
+</select>
+<div id="explanation"></div>
+<input id="input">
+<button id="button">Calculate</button>
+<div id="output"></div>
+  <script src="script.js"></script>
+</body>
+</html>
