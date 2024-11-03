@@ -1,0 +1,33 @@
+body
+{
+    background-color: lightsteelblue;
+}
+
+select
+{
+    font-size: 1.2em;
+    width: 250px;
+    margin: 10px;
+    border: 5px solid black;
+}
+
+div
+{
+    border: 1px dashed burlywood;
+    min-height: 50px;
+    width: 280px;
+    background-color: wheat;
+}
+
+#explanation
+{
+    font-family: "Courier New", Courier, monospace;
+    width: 250px;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+#button
+{
+    border: 13px;
+}
