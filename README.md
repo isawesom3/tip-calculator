@@ -7,6 +7,6 @@ made from JS, HTML, and CSS
 
 ## aPicture
 check it out;
-![Screenshot 2024-11-02 9 13 33 PM](https://github.com/user-attachments/assets/12e5ac3a-c2a9-4e91-8dc8-1bf372f76944)
+![Screenshot 2024-11-02 9 19 08 PM](https://github.com/user-attachments/assets/24c1175c-181f-48c6-b259-8cbf2aa6d452)
 
 
