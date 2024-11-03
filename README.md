@@ -22,7 +22,7 @@ sorry
 check it out;  
 ([note]  $33.76 is just an example number)    
 
-    
+   u can see the dropdown list, the box where u can type the price, the calculate button, instructions, and a blank space for it to tell u the tip price and full price. 
 ![Screenshot 2024-11-02 9 19 08 PM](https://github.com/user-attachments/assets/24c1175c-181f-48c6-b259-8cbf2aa6d452)
 
 
