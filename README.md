@@ -7,6 +7,13 @@ and it also tells you the new cost of your meal.
 made from JS, HTML, and CSS
   and finally the only way to get to it is a link.
 
+### howToUse
+
+how to use it:  
+type in the price of ur meal. 
+then press calculate! 
+itlle give u the a 15% tip (or if u changed the percent then watever that is) and tell u the new price of ur meal (if u use the tip)
+
 #### theLink:
 https://jsfiddle.net/harmlesspotato/q06wu5rv/47/  
 sorry
