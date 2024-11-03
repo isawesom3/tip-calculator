@@ -1,3 +1,4 @@
+###### for the people who love giving tips
 # a tip calculator
 
 this tip calculator gives you a tip on the meal you buy.  
